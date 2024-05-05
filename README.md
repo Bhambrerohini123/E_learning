@@ -1,21 +1,22 @@
-# E_learning
-E-learning platform website for University<br>
+# EdukaS1-Elearning-Website
+E-learning platform website for University
 
+Live Demo : https://ghozymhm.github.io/EdukaS1-Elearning-Website/
 
+Features :
 
-Features :<br>
+- Responsive Website
+- Navigation Bar Color Change on Scrolling
+- Full Page JS
+- Modals
+- Overlay Image
 
-. Responsive Website<br>
-. Navigation Bar Color Change on Scrolling<br>
-. Full Page JS<br>
-. Modals<br>
-. Overlay Image<br>
-Menu / Layout :<br>
+Menu / Layout :
 
-. Navigation Bar<br>
-. Home<br>
-. Course<br>
-. About Us<br>
-. Contact Us<br>
-. Login<br>
-. Footer<br>
+- Navigation Bar
+- Home
+- Course
+- About Us
+- Contact Us
+- Login
+- Footer
