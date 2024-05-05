@@ -1,7 +1,7 @@
 # E_learning
 E-learning platform website for University<br>
 
-Live Demo : https://ghozymhm.github.io/EdukaS1-Elearning-Website/<br>
+
 
 Features :<br>
 
